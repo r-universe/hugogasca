@@ -1,5 +1,16 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "dwlm"]
+	path = dwlm
+	url = https://github.com/cran/dwlm
+[submodule "gconsensus"]
+	path = gconsensus
+	url = https://github.com/cran/gconsensus
+[submodule "ggmr"]
+	path = ggmr
+	url = https://github.com/cran/ggmr
+[submodule "uncertainty"]
+	path = uncertainty
+	url = https://github.com/cran/uncertainty
